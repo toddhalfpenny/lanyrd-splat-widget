@@ -32,6 +32,11 @@ Lanyrd have a 10 minute cache for this info (at the time of writing)... please b
 
 Yes, we know this isn't the best but I think their API is still under development. Once this is available (or I've done more research) I'll use it and cache the results on the WordPress install.
 
+== Screenshots ==
+
+1. Setting up the Lanyrd widget.
+
+2. The Lanyrd Widget in action.
 
 == Changelog ==
 
