@@ -1,10 +1,10 @@
 === Lanyrd Splat Widget ===
 Contributors: toddhalfpenny
 Donate link: http://gingerbreaddesign.co.uk/wordpress/plugins/plugins.php
-Tags: widgets, widget, lanyrd, lanyard, splat, conferences, events
+Tags: widgets, widget, lanyrd, lanyard, splat, conferences, events, widget-only
 Requires at least: 2.8
-Tested up to: 3.3
-Stable tag: 0.0.1
+Tested up to: 3.4
+Stable tag: 0.0.2
 
 Simple configurable Lanyrd Badge (Content Splat) Widget. 
 
@@ -39,6 +39,11 @@ Yes, we know this isn't the best but I think their API is still under developmen
 2. The Lanyrd Widget in action.
 
 == Changelog ==
+
+= 0.0.2 =
+
+1. Added title setting
+1. Added option to set type of events to display
 
 = 0.0.1 = 
 
